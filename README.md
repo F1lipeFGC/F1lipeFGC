@@ -3,10 +3,12 @@
 **Atuação Profissional**
 - Estudante da FATEC - Sorocaba Cursando Analise e Desenvolvimnto de Sistema [FATEC].(https://www.fatecsorocaba.edu.br/).
 
+- Certificados.(https://drive.google.com/drive/folders/1KJdjKLxk7d-ZKMT3pUMGHZjEuYHaKw_h?usp=drive_link)
+
 ## Contato 
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/f1lipefgc_/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/F1lipeFGC)
-[![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:SEUGMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:filipefogaca4@gmail.com)
 
 ## Habilidades
 ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=black)

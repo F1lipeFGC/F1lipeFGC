@@ -5,7 +5,7 @@
 
 ## Contato 
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/f1lipefgc_/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/F1lipeFGC)
 [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:SEUGMAIL)
 
 ## Habilidades

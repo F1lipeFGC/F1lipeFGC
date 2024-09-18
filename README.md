@@ -17,7 +17,6 @@
 ![Java](https://img.shields.io/badge/java-FFF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-FFF?style=for-the-badge&logo=c-sharp&logoColor=black)
-![Vscode](https://img.shields.io/badge/Vscode-FFF?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-FFF?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/laravel-FFF?style=for-the-badge&logo=laravel&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma&logoColor=black)

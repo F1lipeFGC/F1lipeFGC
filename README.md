@@ -2,6 +2,7 @@
 
 **Atuação Profissional**
 - Estudante da FATEC - Sorocaba Cursando Analise e Desenvolvimnto de Sistema [FATEC].(https://www.fatecsorocaba.edu.br/).
+- Tecnico em Desenvolvimento de Sistemas - Formado na ETEC Fernando Preste - Sorocaba.(https://etecfernandoprestes.cps.sp.gov.br/).
 
 - Certificados.(https://drive.google.com/drive/folders/1KJdjKLxk7d-ZKMT3pUMGHZjEuYHaKw_h?usp=drive_link)
 

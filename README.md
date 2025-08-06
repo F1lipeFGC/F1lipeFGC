@@ -25,7 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-FFF?style=for-the-badge&logo=node.js&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FFF?style=for-the-badge&logo=Postman&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next-FFF?style=for-the-badge&logo=mysql&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next-FFF?style=for-the-badge&logo=next&logoColor=black)
 
 
 <h2 align="left">GitHub Stats</h2>
